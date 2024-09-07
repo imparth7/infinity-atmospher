@@ -1,0 +1,23 @@
+body{
+    font-family:arial,sans-serif;
+    font-size:13px;
+    background:#111;
+    overflow: hidden;
+}
+.Alpha{
+    color: brown;
+    font-size: 2.5em;
+    font-family: 'Bungee', fantasy, cursive;
+}
+.Alpha.A1{
+    color: #1d501f !important;
+}
+.Alpha.A2{
+    color: #b7352d !important;
+}
+.Alpha.A3{
+    color: #0076C1 !important;
+}
+.Alpha.A4{
+    color: #ffba00 !important;
+}
